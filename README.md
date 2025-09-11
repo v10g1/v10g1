@@ -1,4 +1,4 @@
-# Portfolio – Vrisan Gaur (v10g)
+# My audit Portfolio
 
 Hello, I am **v10g**.  
 I focus on **security research in DeFi protocols**, **blockchain infrastructure**, and **zero-knowledge applications**.  
