@@ -5,6 +5,7 @@ I focus on **security research in DeFi protocols**, **blockchain infrastructure*
 My work involves identifying vulnerabilities, analyzing protocol design, and studying cryptographic and economic security.
 
 I participate in **security contests** to continuously improve and contribute to ecosystem security.  
+[`X(formerly twitter)`](https://x.com/v10g_)
 
 ---
 
