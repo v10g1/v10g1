@@ -17,5 +17,5 @@ I participate in **security contests** to continuously improve and contribute to
 ---
 
 ## Background
-- Ranked in the **Top 1% in Mathematics** in the country’s largest engineering entrance exam.
-- Also scored 80/120 in Maths in the advance stage of the same exam.
+- Ranked in the **Top 1% in Mathematics** in the country’s largest engineering entrance exam in 2024.
+- Also scored 80/120 in Maths in the advance stage of the same exam in 2024.
