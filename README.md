@@ -17,7 +17,7 @@ I participate in **security contests** to continuously improve and contribute to
 | Malda | - | 1M | [Contest Link](https://audits.sherlock.xyz/contests/1029)|
 | Rezerve Money | - | 3H's | [Contest Link](https://audits.sherlock.xyz/contests/1134)|
 | Super DCA | Top 15 | 2H's | [Contest Link](https://audits.sherlock.xyz/contests/1171)|
-
+| Hotstuff Bridge| -|Airdrop contest|
 ---
 
 ## Background
