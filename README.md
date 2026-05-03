@@ -1,7 +1,7 @@
 # My audit Portfolio
 
 Hello, I am **v10g**.  
-I focus on **security research in DeFi protocols**, **blockchain infrastructure**, and **zero-knowledge applications**.  
+I focus on **security research in Cryptographic and Zero Knowledge protocols**. 
 My work involves identifying vulnerabilities, analyzing protocol design, and studying cryptographic and economic security.
 
 I participate in **security contests** to continuously improve and contribute to ecosystem security.  
