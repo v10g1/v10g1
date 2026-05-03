@@ -20,7 +20,7 @@ I participate in **security contests** to continuously improve and contribute to
 | Hotstuff Bridge| -|Airdrop contest|
 ---
 ## Bug Bounties
-| When | Name | Amount | Tech | Severity |
+| Date | Name | Amount | Type | Severity |
 |------|------|------|------|------|
 |May 2026 | KausaLayer | UNDISCLOSED | ZK+ Solana | 3 Criticals |
 ## Background
