@@ -9,6 +9,13 @@ I participate in **security contests** to continuously improve and contribute to
 
 ---
 
+## Bug Bounties
+| Date | Name | Amount | Type | Severity |
+|------|------|------|------|------|
+|May 2026 | KausaLayer | NDA | ZK+ Solana | 3 Criticals |
+
+---
+
 ## Contest Participation
 
 | Contest Name   | Ranking | Findings(H/Ms)  | Link |
@@ -19,10 +26,7 @@ I participate in **security contests** to continuously improve and contribute to
 | Super DCA | Top 15 | 2H's | [Contest Link](https://audits.sherlock.xyz/contests/1171)|
 | Hotstuff Bridge| -|Airdrop contest|
 ---
-## Bug Bounties
-| Date | Name | Amount | Type | Severity |
-|------|------|------|------|------|
-|May 2026 | KausaLayer | UNDISCLOSED | ZK+ Solana | 3 Criticals |
+
 ## Background
 - Ranked in the **Top 1% in Mathematics** in the country’s largest engineering entrance exam in 2024.
 - Also scored 80/120 in Maths in the advance stage of the same exam in 2024.
