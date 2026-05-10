@@ -16,6 +16,16 @@ I participate in **security contests** to continuously improve and contribute to
 
 ---
 
+## CTFs
+
+| Date | Name |Type |
+|------|------|------|
+|March 2026 | ZKSecurity Challenges | ZK(Rust+GO) |
+|April 2026 | ZKHack puzzles | ZK(Rust) |
+|Oct 2025 | Damn Vulnerable Defi  | Defi (Solidity) |
+
+
+---
 ## Contest Participation
 
 | Contest Name   | Ranking | Findings(H/Ms)  | Link |
